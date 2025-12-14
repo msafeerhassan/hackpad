@@ -14,12 +14,20 @@ Code Screenshot:
 
 3D Case:
 <img width="1279" height="749" alt="Screenshot 2025-12-14 114140" src="https://github.com/user-attachments/assets/8b4b2b80-5928-445e-b6f5-3b005a94ddc2" />
-<img width="1087" height="637" alt="Screenshot 2025-12-14 114120" src="https://github.com/user-attachments/assets/7865050f-5c79-4c9a-83a0-1ebe3bc693c9" />
+
+<img width="1423" height="774" alt="Screenshot 2025-12-14 161204" src="https://github.com/user-attachments/assets/ebf92ff5-c046-4913-8420-ae9ebc15867e" />
 
 ## Bill of Materials
+
 4x Switches/Buttons
+
 2x SK6812 MINI LEDs
+
 1x 0.91" 128x32 OLED Display
+
 1x XIAO RP2040
+
 3D Printed Case (2 printed parts - top and bottom case)
+
 1x PCB from JLCPCB
+
